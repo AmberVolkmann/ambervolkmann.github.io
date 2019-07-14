@@ -7,6 +7,14 @@ body {
 }
 
 
+h1 {
+  font size: 32px;
+}
+h3 {
+  color: blue;
+  font size: 25px;
+}
+
 
 
 p {
