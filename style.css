@@ -1,10 +1,28 @@
 .header {
-    color: royalblue;
+    color: #799575;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+
+}
+
+h2 {
+    color: #799575;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 
 }
 
+h3 {
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
 #center {
     text-align: center;
 
@@ -12,4 +30,6 @@
 
 ul{
     list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
