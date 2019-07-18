@@ -10,6 +10,8 @@
     padding-bottom: 0px;
     padding-right: 100px;
     Padding-left: 100px; 
+    text-align: Left;
+
     
 }
 
@@ -17,6 +19,15 @@ h2 {
     color: #799575;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    Margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-right: 100px;
+    Padding-left: 100px; 
+    text-align: left;
 
 }
 div {
@@ -29,7 +40,7 @@ div {
     padding-right: 100px;
     padding-bottom: 20px;
     padding-left: 100px;
-    background-image: url("photo-1558534606-38e55f8d44f2.jpeg");
+    background-image: url("/Users/Volkmann/prime/Images/photo-1558534606-38e55f8d44f2.jpeg");
     background-repeat: no-repeat;
     border-radius: 25px;
   }
@@ -50,8 +61,18 @@ h4 {
 
 h5 {
     font-color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    Margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-right: 100px;
+    Padding-left: 100px; 
+    text-align: left;
 }
 
 p {
